@@ -2,7 +2,7 @@
 (function() {
   var AUDIO_URL, TOTAL_BANDS, analyser, analyserDataArray, arrCircles, audio, build, buildCircles, changeMode, changeTheme, circlesContainer, cp, createCircleTex, gui, hammertime, init, initAudio, initGUI, initGestures, k, modes, mousePt, mouseX, mouseY, params, renderer, resize, stage, startAnimation, texCircle, themes, themesNames, update, v, windowH, windowW;
 
-  AUDIO_URL = "http://ma77os.com/paradise_circus.mp3";
+  AUDIO_URL = "paradise_circus.mp3";
 
   modes = ["cubic", "conic"];
 
